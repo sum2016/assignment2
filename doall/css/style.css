@@ -1,8 +1,44 @@
 /*
-	* doall style sheet
+	* doall Style Sheet
 	* https://phoenix.sheridanc.on.ca/~ccit3678/
 */
 
+/**
+* Widget Style
+*/
+
+.gridimage img{
+	float: left;
+	max-width: 15em;
+	height: auto;
+	margin: 2em;
+
+}
+ul li a img{
+	max-width: 15em;
+	height: auto;
+
+}
+
+img:hover{
+	opacity: 0.4;
+}
+
+ul.gridtitle{
+	float: left;
+
+}
+
+ul li a.gridtitle{
+	float: left;
+	max-width: 15em;
+	height: auto;
+	margin: 2em;
+}
+
+/**
+* Shortcode Style
+*/
 .shortcode ul.oldpostlist{
 	list-style-type: square;
 }
