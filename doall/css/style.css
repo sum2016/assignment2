@@ -7,29 +7,29 @@
 * Widget Style
 */
 
-.gridimage img{
+.widget-area .gridimage img{
 	float: left;
 	max-width: 15em;
 	height: auto;
 	margin: 2em;
 
 }
-ul li a img{
+.widget-area ul li a img{
 	max-width: 15em;
 	height: auto;
 
 }
 
-img:hover{
+.widget-area img:hover{
 	opacity: 0.4;
 }
 
-ul.gridtitle{
+.widget-area ul.gridtitle{
 	float: left;
 
 }
 
-ul li a.gridtitle{
+.widget-area ul li a.gridtitle{
 	float: left;
 	max-width: 15em;
 	height: auto;
