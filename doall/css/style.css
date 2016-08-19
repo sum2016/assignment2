@@ -2,3 +2,11 @@
 	* doall style sheet
 	* https://phoenix.sheridanc.on.ca/~ccit3678/
 */
+
+.shortcode ul.oldpostlist{
+	list-style-type: square;
+}
+
+.shortcode a{
+	color: #ffffff;
+}
